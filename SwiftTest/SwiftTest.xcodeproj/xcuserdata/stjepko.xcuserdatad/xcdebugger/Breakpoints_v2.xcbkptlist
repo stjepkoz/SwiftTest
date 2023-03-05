@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3124B7D7-C522-4567-9B07-D199A9DACF71"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C03BC9A5-C5FE-44AE-BBE2-B5D5166D7C6F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "6"
+            endingLineNumber = "6"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "326CD7F4-AF11-4E18-9C25-CB044BEAFE23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/Task+Retry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "retried(times:backoff:priority:operation:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "326CD7F4-AF11-4E18-9C25-CB044BEAFE23 - 8a5a8af05adf5442"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async throws -&gt; &#x3c4;_0_0 in static Swift.Task.retried&lt; where &#x3c4;_0_1 == Swift.Error&gt;(times: Swift.Int, backoff: Swift.Double, priority: Swift.Optional&lt;Swift.TaskPriority&gt;, operation: @Sendable () async throws -&gt; &#x3c4;_0_0) -&gt; Swift.Task&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stjepko/Downloads/ios%20tests/SwiftTest/SwiftTest/Task+Retry.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "654">
+               </Location>
+               <Location
+                  uuid = "326CD7F4-AF11-4E18-9C25-CB044BEAFE23 - a84061cfba32b771"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) await resume partial function for closure #1 @Sendable () async throws -&gt; &#x3c4;_0_0 in static Swift.Task.retried&lt; where &#x3c4;_0_1 == Swift.Error&gt;(times: Swift.Int, backoff: Swift.Double, priority: Swift.Optional&lt;Swift.TaskPriority&gt;, operation: @Sendable () async throws -&gt; &#x3c4;_0_0) -&gt; Swift.Task&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stjepko/Downloads/ios%20tests/SwiftTest/SwiftTest/Task+Retry.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "45">
+               </Location>
+               <Location
+                  uuid = "326CD7F4-AF11-4E18-9C25-CB044BEAFE23 - 214ba33651256fbf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async throws -&gt; &#x3c4;_0_0 in static Swift.Task.retried&lt; where &#x3c4;_0_1 == Swift.Error&gt;(times: Swift.Int, backoff: Swift.Double, priority: Swift.Optional&lt;Swift.TaskPriority&gt;, operation: @Sendable () async throws -&gt; &#x3c4;_0_0) -&gt; Swift.Task&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stjepko/Downloads/ios%20tests/SwiftTest/SwiftTest/Task+Retry.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "326CD7F4-AF11-4E18-9C25-CB044BEAFE23 - d844d874686301b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(7) suspend resume partial function for closure #1 @Sendable () async throws -&gt; &#x3c4;_0_0 in static Swift.Task.retried&lt; where &#x3c4;_0_1 == Swift.Error&gt;(times: Swift.Int, backoff: Swift.Double, priority: Swift.Optional&lt;Swift.TaskPriority&gt;, operation: @Sendable () async throws -&gt; &#x3c4;_0_0) -&gt; Swift.Task&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stjepko/Downloads/ios%20tests/SwiftTest/SwiftTest/Task+Retry.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "448">
+               </Location>
+               <Location
+                  uuid = "326CD7F4-AF11-4E18-9C25-CB044BEAFE23 - bd3fc03b1bd6e7bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(8) suspend resume partial function for closure #1 @Sendable () async throws -&gt; &#x3c4;_0_0 in static Swift.Task.retried&lt; where &#x3c4;_0_1 == Swift.Error&gt;(times: Swift.Int, backoff: Swift.Double, priority: Swift.Optional&lt;Swift.TaskPriority&gt;, operation: @Sendable () async throws -&gt; &#x3c4;_0_0) -&gt; Swift.Task&lt;&#x3c4;_0_0, Swift.Error&gt;"
+                  moduleName = "SwiftTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/stjepko/Downloads/ios%20tests/SwiftTest/SwiftTest/Task+Retry.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "121">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "89AB6723-46B7-4FA3-B3B6-CFDE17E9A04F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/Task+Retry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "retried(times:backoff:priority:operation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B01F5673-BCE5-465F-B384-D16E0A0E759C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/APIClient.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getPublisher(url:type:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4DF76AF8-F17C-43A6-AE19-2FB289183BE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/Publisher+Retry.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "Publisher"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C5017F3-F1CE-4852-AE9E-9D777D6FEEE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/AsyncImageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "loadImage(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "468AD9FC-9DA5-4BE5-898E-CA8293AE7336"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftTest/AsyncImageView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "loadImage(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
